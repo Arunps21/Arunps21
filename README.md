@@ -24,7 +24,7 @@
 <a href="https://twitter.com/arun__ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun__ps" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arun-ps-586874238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-ps-586874238" height="30" width="40" /></a>
 <a href="https://instagram.com/_arun._ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arun._ps" height="30" width="40" /></a>
-<a href="www.youtube.com/@arunps21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arunps21" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@arunps21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@arunps21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arunps880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arunps880" height="30" width="40" /></a>
 </p>
 
