@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN FullStack development**
 
-- 💬 Ask me about **HTML,CSS,BootStrap,JavaScript**
+- 💬 Ask me about **HTML,CSS,BootStrap,JavaScript,React JS**
 
 - 📫 How to reach me **arunps880@gmail.com**
 
