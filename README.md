@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Restaurant Project](https://arunps21.github.io/restaurant-project/)
 
-- 🌱 I’m currently learning **MERN FullStack development**
+- 🌱 I’m currently learning **MERN FullStack Development**
 
 - 💬 Ask me about **HTML,CSS,BootStrap,JavaScript,React JS**
 
