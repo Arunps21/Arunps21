@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arun__ps" target="blank"><img src="https://img.shields.io/twitter/follow/arun__ps?logo=twitter&style=for-the-badge" alt="arun__ps" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant Project](https://arunps21.github.io/restaurant-project/)
+- 🔭 I’m currently working on [Kerala Tourism](https://tourism-project-eta.vercel.app/)
 
 - 🌱 I’m currently learning **MERN FullStack Development**
 
