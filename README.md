@@ -39,4 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunps21&" alt="arunps21" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/arunps"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/arunps" /></a>
- <a href="https://ko-fi.com/Ko-fi.com/arunps"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi.com/arunps" /></a></p>
+ <a href="https://Ko-fi.com/arunps"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi.com/arunps" /></a></p>
