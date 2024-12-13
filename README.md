@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/arun__ps" target="blank"><img src="https://img.shields.io/twitter/follow/arun__ps?logo=twitter&style=for-the-badge" alt="arun__ps" /></a> </p>
 
-- 🔭 I’m currently working on [Kerala Tourism](https://tourism-project-eta.vercel.app/)
+- 🔭 I’m currently working on [Nike](https://nike-react-project-five.vercel.app/)
 
-- 🌱 I’m currently learning **MERN FullStack Development**
+- 🌱 I’m **Full-Stack Developer**
 
 - 💬 Ask me about **HTML,CSS,BootStrap,JavaScript,React JS,Express JS,Node JS,MongoDB**
 
