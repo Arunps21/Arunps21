@@ -11,7 +11,7 @@
 
 - 🌱 I’m **Full-Stack Developer**
 
-- 💬 Ask me about **HTML,CSS,BootStrap,JavaScript,React JS,Express JS,Node JS,MongoDB**
+- 💬 Ask me about **React JS,Express JS,Node JS,MongoDB**
 
 - 📫 How to reach me **arunps880@gmail.com**
 
