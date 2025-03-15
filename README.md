@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunps21&label=Profile%20views&color=0e75b6&style=flat" alt="arunps21" /> </p>
 
-
 - 🔭 I’m currently working as **MERN Developer**
 
 - 🌱 I’m **Full-Stack Developer**
@@ -17,11 +16,9 @@
 - 📫 How to reach me **arunps880@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PD9P_2vB3TXn6sTBzvCArERefYDpGpxE/view?usp=drive_link](https://drive.google.com/file/d/1IMZSpvce0e77LYNN3YpEqQo7qAadU9cK/view?usp=drive_link)
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PD9P_2vB3TXn6sTBzvCArERefYDpGpxE/view?usp=drive_link](https://drive.google.com/file/d/1PD9P_2vB3TXn6sTBzvCArERefYDpGpxE/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm funny**
 
-@@ -24,19 +23,18 @@
 <a href="https://twitter.com/arun__ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun__ps" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arun-ps-586874238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-ps-586874238" height="30" width="40" /></a>
 <a href="https://instagram.com/_arun._ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arun._ps" height="30" width="40" /></a>
