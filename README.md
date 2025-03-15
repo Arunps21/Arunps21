@@ -6,10 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunps21&label=Profile%20views&color=0e75b6&style=flat" alt="arunps21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arun__ps" target="blank"><img src="https://img.shields.io/twitter/follow/arun__ps?logo=twitter&style=for-the-badge" alt="arun__ps" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunps21" alt="arunps21" /></a> </p>
 
-- 🔭 I’m currently working on [Flone.](https://flone-frontend.vercel.app/)
 - 🔭 I’m currently working as **MERN Developer**
 
 - 🌱 I’m **Full-Stack Developer**
